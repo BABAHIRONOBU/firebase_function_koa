@@ -1,0 +1,11 @@
+{
+  "name": "firebase_function_koa",
+  "version": "1.0.3",
+  "description": "firebase cloud function + koa 프로젝트 세팅",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "functions"
+  ]
+}
